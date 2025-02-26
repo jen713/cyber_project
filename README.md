@@ -1,6 +1,10 @@
 Secure-Data-Hiding-in-Images-Using-Steganography-
+
+
 Overview
 This project implements an image-based steganography tool that allows users to securely hide and retrieve messages within images. The encryption mechanism ensures data confidentiality by using AES encryption, making it a robust solution for secure communication.
+
+
 
 Features
 🔐 AES Encryption: Messages are encrypted using AES-256 encryption before being hidden in an image.
@@ -8,7 +12,11 @@ Features
 📂 User-Friendly Interface: Built with Streamlit for an interactive and intuitive UI.
 🖼️ Image Support: Supports PNG images for encoding and decoding messages.
 🔑 Password Protection: Requires a password for both encryption and decryption, ensuring security.
+
+
 Technologies Used
+
+
 Python: Core programming language.
 Streamlit: Web-based UI for seamless interaction.
 OpenCV: Image processing library for reading and modifying images.
